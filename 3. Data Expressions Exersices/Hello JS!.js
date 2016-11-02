@@ -1,3 +1,4 @@
-/**
- * Created by acer on 02-Nov-16.
- */
+function helloJS([input]){
+    let name = input;
+    console.log("Hello, %s, I am JavaScript!", name);
+}
