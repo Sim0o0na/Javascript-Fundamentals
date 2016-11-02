@@ -23,38 +23,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="solutions.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/solutions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="88" column="2" selection-start-line="88" selection-start-column="2" selection-end-line="88" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Secret.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Secret.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extract Links.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Extract Links.js">
+      <file leaf-file-name="solutions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/solutions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="199" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Word Occurencies.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Word Occurencies.js">
+      <file leaf-file-name="Extract Unique Words.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Extract Unique Words.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
@@ -63,18 +43,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Find Variables Names in Sentence.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Find Variables Names in Sentence.js">
+      <file leaf-file-name="Lowest Prices in cities.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Lowest Prices in cities.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="374">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Capture The Nums.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Capture The Nums.js">
+      <file leaf-file-name="City Markets.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/City Markets.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Populations In Town.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Populations In Town.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Count Words With Maps.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Count Words With Maps.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Count Words In Text.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Count Words In Text.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sum By Town.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Sum By Town.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
@@ -83,41 +103,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Capitalize Words.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Capitalize Words.js">
+      <file leaf-file-name="JSON To Table.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/JSON To Table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="194">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ends With.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Ends With.js">
+      <file leaf-file-name="Score To HTML.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Score To HTML.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Starts With.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Starts With.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Repeat String.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Repeat String.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -135,17 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../6. Functions Exercises/Trip Lenght.js" />
-        <option value="$PROJECT_DIR$/../6. Functions Exercises/Radio Crystals.js" />
-        <option value="$PROJECT_DIR$/../6. Functions Exercises/DNA Helix.js" />
-        <option value="$PROJECT_DIR$/../7. Arrays and Matrices/Sum First And Last.js" />
-        <option value="$PROJECT_DIR$/../7. Arrays and Matrices/Sum Even.js" />
-        <option value="$PROJECT_DIR$/../7. Arrays and Matrices/Positive And Negative Nums.js" />
-        <option value="$PROJECT_DIR$/../7. Arrays and Matrices/Print Matrix.js" />
-        <option value="$PROJECT_DIR$/../7. Arrays and Matrices/First and Last K nums.js" />
-        <option value="$PROJECT_DIR$/../7. Arrays and Matrices/Odd Nums.js" />
-        <option value="$PROJECT_DIR$/../7. Arrays and Matrices/smallest Two nums.js" />
-        <option value="$PROJECT_DIR$/../7. Arrays and Matrices/Biggest Element in Matrix.js" />
         <option value="$PROJECT_DIR$/../7. Arrays and Matrices/Diagonal Sums.js" />
         <option value="$PROJECT_DIR$/../7. Arrays and Matrices/examples.js" />
         <option value="$PROJECT_DIR$/../7. Arrays and Matrices/Equal Neighbours.js" />
@@ -186,6 +175,17 @@
         <option value="$PROJECT_DIR$/../10. Strings and RegExp Ex/Extract Links.js" />
         <option value="$PROJECT_DIR$/../10. Strings and RegExp Ex/Secret.js" />
         <option value="$PROJECT_DIR$/../10. Strings and RegExp Ex/solutions.js" />
+        <option value="$PROJECT_DIR$/../10. Strings and RegExp Ex/Towns To JSON.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/HTML Escape.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/Score To HTML.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/JSON To Table.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/Sum By Town.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/Count Words In Text.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/Count Words With Maps.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/Populations In Town.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/City Markets.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/Lowest Prices in cities.js" />
+        <option value="$PROJECT_DIR$/../11. Lab JS Objects/Extract Unique Words.js" />
       </list>
     </option>
   </component>
@@ -300,12 +300,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1478088346792</updated>
-      <workItem from="1478088347986" duration="2330000" />
+      <workItem from="1478088347986" duration="2608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2330000" />
+    <option name="totallyTimeSpent" value="2608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="0" width="1361" height="728" extended-state="0" />
@@ -345,104 +345,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../6. Functions Exercises/Radio Crystals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
-          <folding>
-            <element signature="e#2621#2661#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../6. Functions Exercises/exersices.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../6. Functions Exercises/DNA Helix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/Sum First And Last.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/Sum Even.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/Positive And Negative Nums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/Print Matrix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/First and Last K nums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/Odd Nums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/smallest Two nums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/Biggest Element in Matrix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/Diagonal Sums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../7. Arrays and Matrices/examples.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -755,8 +657,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/solutions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="88" column="2" selection-start-line="88" selection-start-column="2" selection-end-line="88" selection-end-column="2" />
+        <state relative-caret-position="415">
+          <caret line="111" column="62" selection-start-line="111" selection-start-column="62" selection-end-line="111" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../10. Strings and RegExp Ex/Towns To JSON.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/HTML Escape.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Score To HTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/JSON To Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Sum By Town.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Count Words In Text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Count Words With Maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Populations In Town.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/City Markets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Lowest Prices in cities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/solutions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="199" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11. Lab JS Objects/Extract Unique Words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
